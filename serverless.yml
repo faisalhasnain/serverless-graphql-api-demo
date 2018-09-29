@@ -28,9 +28,9 @@ functions:
         method: post
         cors: true
   graphiql:
-    handler: handler.graphiqlHandler
+    handler: handler.graphqlHandler
     events:
     - http:
-        path: graphiql
+        path: graphql
         method: get
         cors: true
