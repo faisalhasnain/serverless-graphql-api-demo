@@ -1,0 +1,15 @@
+type Query {
+  teamMembers: [Member!]!
+}
+
+type Member {
+  _id: ID!
+  name: String!
+  email: String!
+  title: String!
+  employed: String!
+}
+
+schema {
+  query: Query
+}

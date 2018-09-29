@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Faisal Hasnain",
+    "email": "faisal.hasnain@icloud.com",
+    "title": "Software Developer",
+    "employed": "2016-11-01"
+  },
+  {
+    "name": "John Smith",
+    "email": "john.smith@icloud.com",
+    "title": "Team Leader",
+    "employed": "2016-06-20"
+  },
+  {
+    "name": "Donald Hillier",
+    "email": "donald.hillier@icloud.com",
+    "title": "Senior Visual UX/UI Designer",
+    "employed": "2015-02-17"
+  },
+  {
+    "name": "Duane Kane",
+    "email": "duane.kane@icloud.com",
+    "title": "Lead Designer",
+    "employed": "2016-06-20"
+  }
+]
