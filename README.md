@@ -1,2 +1,1 @@
-# serverless-graphql-demo
-GraphQL API demo using Serverless framework (AWS Lambda)
+## GraphQL API demo using Serverless framework (AWS Lambda)
