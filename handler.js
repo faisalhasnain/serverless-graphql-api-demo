@@ -4,4 +4,4 @@ import { resolvers } from './resolvers';
 
 const server = new ApolloServer({ typeDefs: schema, resolvers });
 
-exports.graphqlHandler = server.createHandler();
+export const graphqlHandler = server.createHandler();

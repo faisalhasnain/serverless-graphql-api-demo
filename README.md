@@ -23,4 +23,4 @@ Open your Mac/Linux terminal and execute the following commands.
       npm start
       ```
   
-  Yay! 🎉 You got the GraphiQL playground running at http://localhost:4000/graphiql
+  Yay! 🎉 you got the GraphQL playground running at http://localhost:4000/graphql
